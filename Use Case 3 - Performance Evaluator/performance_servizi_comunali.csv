@@ -1,0 +1,11 @@
+﻿Servizio,Mese,Anno,PraticheGestite,TempoMedioEvasione (gg),CostoTotale (€),SoddisfazioneCittadini (%),Digitalizzazione (%)
+Anagrafe,Gennaio,2025,1250,3.2,18000,92,85
+Anagrafe,Febbraio,2025,1180,4.5,17500,87,82
+Informatica,Gennaio,2025,640,6.1,23000,79,65
+Informatica,Febbraio,2025,700,5.8,22000,82,68
+Urbanistica,Gennaio,2025,420,15.2,45000,75,40
+Urbanistica,Febbraio,2025,480,14.7,47000,77,42
+Ambiente,Gennaio,2025,890,7.8,32000,85,70
+Ambiente,Febbraio,2025,860,9.1,31000,80,68
+Sociale,Gennaio,2025,560,8.5,28000,84,55
+Sociale,Febbraio,2025,540,9.3,29000,81,58
