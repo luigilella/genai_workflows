@@ -1,5 +1,7 @@
 # genai_workflows
 This repository contains KNIME workflow examples demonstrating how Generative AI and Large Language Models (LLMs) can be safely and effectively used to support typical public administration activities. The proposed use cases focus on efficiency, transparency, GDPR compliance and human oversight, in line with European regulatory and ethical principles.
+All workflows presented in this repository rely exclusively on Generative AI models deployed locally via the Ollama platform (https://ollama.com/).
+This architectural choice ensures full control over data, prevents unintended data disclosure to external providers, and supports compliance with GDPR and public sector security requirements.
 
 Use Case #1 – Sentiment Analysis with LLMs
 This use case represents one of the earliest and most common applications of LLMs: sentiment analysis of user or citizen feedback, complaints and reports.
